@@ -1,6 +1,6 @@
 {
   "profile": {
-    "greeting": "Welcome to Original Coast Clothing {{user_first_name}}! Click get started to enjoy our sample automated messaging experience. If you want to build a similar one visit https://fb.me/get-sample-oc"
+    "greeting": "Welcome to Karbee {{user_first_name}}! Please visit us on http://www.karbee.com"
   },
   "menu": {
     "support": "Customer Support",
@@ -11,7 +11,7 @@
     "start_over": "Start over"
   },
   "get_started": {
-    "welcome": "Hi {{userFirstName}}! Welcome to Original Coast Clothing where you'll find styles for every occasion.",
+    "welcome": "Hi {{userFirstName}}! Welcome to Karbee where you'll find cars for every occasion.",
     "guidance": "At any time, use the menu below to navigate through the features",
     "help": "What we can do to help you today?"
   },
@@ -68,7 +68,7 @@
     "prompt": "Thanks for visiting our store, be sure to check out all the great styles we have on the summer section."
   },
   "fallback": {
-    "any": "Sorry, but I don’t recognize \"{{message}}\".",
+    "any": "We have received your message. To find more details about a car and find millions of similar cars please visit http://www.karbee.com. If you need help about something else someone should reach out to you shortly.",
     "attachment": "Thanks for sending this attachment, we can connect you to an agent to review it or we can start over"
   }
 }
